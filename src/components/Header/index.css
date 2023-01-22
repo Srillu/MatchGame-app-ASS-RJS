@@ -1,0 +1,46 @@
+.header-container {
+  max-height: 10vh;
+  background-color: #2c0e3a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.logo {
+  height: 30px;
+  margin-left: 20px;
+}
+
+.score-container {
+  display: flex;
+  color: #ffffff;
+  align-items: center;
+}
+
+.timer-container {
+  display: flex;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.timer-icon {
+  height: 20px;
+  margin-right: 3px;
+  margin-left: 30px;
+}
+
+* {
+  font-family: 'Roboto';
+}
+
+.seconds {
+  color: #fec653;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 3px;
+}
+
+.seconds-name {
+  font-size: 13px;
+}

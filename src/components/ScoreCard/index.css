@@ -1,0 +1,31 @@
+.trophy-pic {
+  height: 200px;
+  width: 300px;
+}
+
+.trophy-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+
+.score {
+  font-weight: bold;
+}
+
+.play-again-btn {
+  display: flex;
+  border-width: 0px;
+  background-color: #cf60c8;
+  border-radius: 6px;
+  color: #ffffff;
+  padding: 10px;
+  align-items: center;
+}
+
+.reset-btn {
+  margin-right: 10px;
+}

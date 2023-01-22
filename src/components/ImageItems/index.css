@@ -1,0 +1,10 @@
+.thumb-nail-images {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+
+.image-btn {
+  background-color: transparent;
+  border-width: 0px;
+}

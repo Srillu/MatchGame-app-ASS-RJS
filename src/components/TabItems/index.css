@@ -1,0 +1,11 @@
+* {
+  font-family: 'Roboto';
+}
+
+.tab-btn {
+  background-color: transparent;
+  border-width: 0px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+}
